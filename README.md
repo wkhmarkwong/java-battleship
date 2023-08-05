@@ -11,15 +11,25 @@ Practice java OOP programming by building a famous, classic game - Battleship
 
 (Opponent state. “~” is sea, “X” means hit ship.)
   1 2 3 4 5 6 7 8 9 10
+  
 A X ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 ---------------------
@@ -41,4 +51,6 @@ J ~ O ~ ~ ~ ~ ~ O O O
 - Each player take turns to hit the opponent. The opponent then gives 1 of the 2 responses: hit or miss. Both players mark the result. The game continue until 1 of the player loses all his ship.
 
 # How to run in local environment?
-Clone the Main.java file into your local environment. Run as Main.
+Create a new Java project in your machine.
+Paste the Main.java file into your src folder
+Run as Main.
