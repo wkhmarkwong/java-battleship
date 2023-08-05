@@ -64,6 +64,6 @@ J ~ O ~ ~ ~ ~ ~ O O O
 - Each player take turns to hit the opponent. The opponent then gives 1 of the 2 responses: hit or miss. Both players mark the result. The game continue until 1 of the player loses all his ship.
 
 # How to run in local environment?
--Create a new Java project in your machine.
--Paste the Main.java file into your src folder
--Run as Main.
+- Create a new Java project in your machine.
+- Paste the Main.java file into your src folder
+- Run as Main.
